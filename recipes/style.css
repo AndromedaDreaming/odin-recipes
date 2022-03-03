@@ -1,0 +1,36 @@
+.header {
+    color: rgb(37, 36, 36);
+    background-color: bisque;
+    font-size: 40px;
+}
+
+.caption,
+.ingredients,
+.steps {
+    font-size: 20px;
+    background-color: bisque;
+}
+
+p {
+    color: rgb(20, 19, 20);
+    background-color: rgb(250, 240, 228);
+}
+
+ul,
+ol {
+    background-color: rgb(250, 240, 228);
+    color: rgb(51, 51, 51);
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+a:link {
+    color: rgb(37, 36, 36);
+}
+
+a:visited {
+    color: green;
+}
